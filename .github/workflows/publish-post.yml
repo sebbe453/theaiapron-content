@@ -1,0 +1,43 @@
+name: Publish AI Apron Post
+ 
+on:
+  schedule:
+    # Runs Monday, Wednesday, Friday at 8:00 AM UTC
+    - cron: '0 8 * * 1,3,5'
+  workflow_dispatch:
+    # Allows you to trigger manually from GitHub Actions tab
+    # Useful for testing and publishing on demand
+ 
+jobs:
+  generate-and-publish:
+    runs-on: ubuntu-latest
+ 
+    permissions:
+      contents: write
+ 
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+ 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+ 
+      - name: Install dependencies
+        run: pip install anthropic
+ 
+      - name: Generate post
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_TOKEN:      ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPO:       ${{ github.repository }}
+        run: python scripts/generate_post.py
+ 
+      - name: Commit new post and updated memory
+        run: |
+          git config user.name  "AI Apron Bot"
+          git config user.email "bot@theaiapron.com"
+          git add posts/ memory/
+          git diff --staged --quiet || git commit -m "Auto: new post $(date +'%Y-%m-%d')"
+          git push
