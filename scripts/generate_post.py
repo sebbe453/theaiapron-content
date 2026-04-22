@@ -248,7 +248,7 @@ Then write the full post with a compelling title on the first line.
 """
  
     message = client.messages.create(
-        model="claude-sonnet-4-20250514",
+        model="claude-sonnet-4-6",
         max_tokens=2500,
         messages=[{"role": "user", "content": prompt}]
     )
@@ -286,7 +286,7 @@ POST TO SCORE:
 """
  
     message = client.messages.create(
-        model="claude-sonnet-4-20250514",
+        model="claude-sonnet-4-6",
         max_tokens=500,
         messages=[{"role": "user", "content": prompt}]
     )
