@@ -79,5 +79,16 @@
       "Cannot confirm the presence of a direct bottom line verdict as the post ends mid-section",
       "Word count is well under 1,200 words due to the post being cut off \u2014 fails the length criterion"
     ]
+  },
+  {
+    "title": "Best AI Tools for Photographers in 2026 (That Actually Save You Hours and Fill Your Calendar)",
+    "date": "2026-04-23",
+    "score": 5,
+    "issues": [
+      "Post appears to be cut off mid-sentence ('AFFILIATE: A'), meaning it is incomplete and almost certainly under 1,200 words \u2014 word count criterion fails",
+      "Only one tool (Aftershoot Cull) is fully reviewed; the post promises multiple tools but does not deliver them, so the 'all tool recommendations include real pricing' and 'every tool has an honest limitation' criteria cannot be fully satisfied",
+      "No direct bottom line verdict is present \u2014 the post ends abruptly before any conclusion or recommendation summary",
+      "With only one tool covered, the post cannot be evaluated as a complete round-up, making the overall premise unfulfilled"
+    ]
   }
 ]
