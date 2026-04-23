@@ -352,7 +352,8 @@ def swap_affiliate_links(content):
         else:
             # No affiliate URL yet — leave as a clean link to the tool's homepage
             # by searching the tool name (safe fallback)
-            return f"[{tool_name}](#affiliate-pending)"
+            search_query = tool_name.replace(' ', '+')
+return f"[{tool_name}](https://www.google.com/search?q={search_query}+pricing+review)"
  
     return re.sub(r'\[AFFILIATE:\s*([^\]]+)\]', replace_match, content)
  
