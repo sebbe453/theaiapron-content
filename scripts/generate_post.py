@@ -348,13 +348,13 @@ def swap_affiliate_links(content):
         tool_name = match.group(1).strip()
         url = AFFILIATE_LINKS.get(tool_name)
         if url:
-            return f"[Visit {tool_name}]({url})"
+                 return f"[Visit {tool_name}]({url})"
         else:
             # No affiliate URL yet — leave as a clean link to the tool's homepage
             # by searching the tool name (safe fallback)
             search_query = tool_name.replace(' ', '+')
-return f"[{tool_name}](https://www.google.com/search?q={search_query}+pricing+review)"
- 
+            return f"[{tool_name}](https://www.google.com/search?q={search_query}+pricing+review)"
+
     return re.sub(r'\[AFFILIATE:\s*([^\]]+)\]', replace_match, content)
  
 # ─────────────────────────────────────────
