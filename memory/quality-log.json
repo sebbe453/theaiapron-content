@@ -140,5 +140,16 @@
     "date": "2026-04-27",
     "score": 7,
     "issues": []
+  },
+  {
+    "title": "Best AI Tools for Independent Coffee Shops in 2026 (That Actually Keep the Tables Full and the Margins Alive)",
+    "date": "2026-04-29",
+    "score": 5,
+    "issues": [
+      "Post is incomplete \u2014 cuts off mid-sentence during the Podium section, making it impossible to assess full word count (almost certainly under 1,200 words) or whether all criteria are met",
+      "Not all tool recommendations include complete pricing \u2014 Podium entry is cut off before pricing context is finished, and only two tools are presented so the full pricing picture is missing",
+      "Not all tools have confirmed honest limitations \u2014 Podium's limitation is missing due to the post being cut off",
+      "No direct bottom line verdict is present \u2014 the post ends abruptly with no closing recommendation or verdict section"
+    ]
   }
 ]
