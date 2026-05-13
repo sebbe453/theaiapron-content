@@ -193,5 +193,16 @@
     "date": "2026-05-11",
     "score": 7,
     "issues": []
+  },
+  {
+    "title": "How Restaurants and Caf\u00e9s Use AI to Save Time in the Kitchen and Front of House (Not Just on the Menu)",
+    "date": "2026-05-13",
+    "score": 6,
+    "issues": [
+      "Post is incomplete \u2014 it cuts off mid-sentence in the Sling limitation section, meaning the full word count cannot be verified and the content is unfinished",
+      "Only one tool (Sling) is partially reviewed, so the requirement that ALL tool recommendations include real pricing cannot be confirmed for the full post",
+      "Only one tool is partially reviewed, so the requirement that EVERY tool has an honest limitation cannot be confirmed for the full post",
+      "No direct bottom line verdict is present \u2014 the post ends abruptly before any concluding recommendation or verdict is given"
+    ]
   }
 ]
