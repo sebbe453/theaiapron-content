@@ -204,5 +204,16 @@
       "Only one tool is partially reviewed, so the requirement that EVERY tool has an honest limitation cannot be confirmed for the full post",
       "No direct bottom line verdict is present \u2014 the post ends abruptly before any concluding recommendation or verdict is given"
     ]
+  },
+  {
+    "title": "How Hair & Beauty Salons Use AI to Save Time (Without Hiring Anyone New)",
+    "date": "2026-05-15",
+    "score": 5,
+    "issues": [
+      "Post is incomplete \u2014 it cuts off mid-sentence in the Tidio section, so word count cannot be verified and the 1,200-1,800 word requirement is not met",
+      "Only one tool (Tidio) is partially reviewed before the post ends, so the requirement that all tool recommendations include real pricing cannot be fully assessed \u2014 remaining tools have no pricing listed",
+      "Every tool having an honest limitation cannot be confirmed as the post is truncated before limitations are fully presented",
+      "No direct bottom line verdict is present \u2014 the post ends abruptly with no concluding recommendation or verdict section"
+    ]
   }
 ]
