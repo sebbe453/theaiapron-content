@@ -267,5 +267,17 @@
     "angle": "how estate agents & property use AI to save time",
     "score": 7,
     "strengths": []
+  },
+  {
+    "title": "How Gyms and Personal Trainers Use AI to Save Time on Programming, Admin, and Client Retention (Not Just Marketing)",
+    "slug": "how-gyms-and-personal-trainers-use-ai-to-save-time-on-programming-admin-and-clie",
+    "date": "2026-05-20",
+    "industry": "gyms & personal trainers",
+    "angle": "how gyms & personal trainers use AI to save time",
+    "score": 5,
+    "strengths": [
+      "Hook is specific and concrete \u2014 '8\u201312 hours a week' and the Manchester PT example with exact time savings (90 minutes to 20 minutes) are precise and credible",
+      "The one tool shown (ChatGPT) includes real pricing ($20/month with GBP conversion) and an honest, specific limitation about lacking client context without a structured prompt"
+    ]
   }
 ]
