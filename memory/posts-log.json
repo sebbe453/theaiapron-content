@@ -288,5 +288,18 @@
     "angle": "how e-commerce & online shops use AI to save time",
     "score": 7,
     "strengths": []
+  },
+  {
+    "title": "How Dental & Healthcare Clinics Use AI to Save Time on the Work That Happens Before and After Every Appointment",
+    "slug": "how-dental-healthcare-clinics-use-ai-to-save-time-on-the-work-that-happens-befor",
+    "date": "2026-05-25",
+    "industry": "dental & healthcare clinics",
+    "angle": "how dental & healthcare clinics use AI to save time",
+    "score": 5,
+    "strengths": [
+      "Hook is specific and concrete \u2014 '2 hours a day on phone calls' and '40\u201360 messages per week' with '60% handled automatically' gives readers a tangible, numbers-based anchor rather than a vague claim",
+      "No banned words detected in the visible content \u2014 terms like revolutionary, game-changer, seamless, leverage, transformative, robust, empower, cutting-edge, and next-level are all absent",
+      "The one tool shown (Tidio) includes real pricing (free plan plus \u00a329/month) and a limitation is started, showing the right intent even if incomplete"
+    ]
   }
 ]
