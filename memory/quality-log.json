@@ -256,5 +256,16 @@
     "date": "2026-05-29",
     "score": 7,
     "issues": []
+  },
+  {
+    "title": "How Independent Retailers Use AI to Save Time on the Daily Tasks That Are Quietly Draining Your Week",
+    "date": "2026-06-01",
+    "score": 5,
+    "issues": [
+      "Post is incomplete \u2014 it cuts off mid-sentence, so word count cannot be verified and likely falls below the 1,200-word minimum",
+      "No tool recommendations include real pricing \u2014 ChatGPT is mentioned but no pricing is provided for it or any other tool",
+      "No honest limitations are provided for any tools mentioned",
+      "No direct bottom line verdict is present \u2014 the post ends abruptly before any conclusion"
+    ]
   }
 ]
