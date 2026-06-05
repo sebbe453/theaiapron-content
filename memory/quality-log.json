@@ -280,5 +280,16 @@
       "Cannot verify absence of banned words across the full post since it is incomplete",
       "No bottom line verdict present \u2014 post ends before any conclusion or direct recommendation is given"
     ]
+  },
+  {
+    "title": "How Accountants and Bookkeepers Use AI to Save Time on the Work Clients Never See (But Always Feel)",
+    "date": "2026-06-05",
+    "score": 5,
+    "issues": [
+      "Post appears to be cut off mid-sentence ('It also won't kn'), meaning the content is incomplete \u2014 word count cannot be verified and the post is almost certainly under 1,200 words",
+      "Only one tool (ChatGPT) is fully presented before the post cuts off, so the requirement that ALL tool recommendations include real pricing cannot be confirmed as met",
+      "Only one tool is visible, so the requirement that EVERY tool has an honest limitation cannot be confirmed as met \u2014 the single visible limitation is also incomplete",
+      "No direct bottom line verdict is present in the submitted content"
+    ]
   }
 ]
