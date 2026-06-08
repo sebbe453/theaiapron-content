@@ -291,5 +291,16 @@
       "Only one tool is visible, so the requirement that EVERY tool has an honest limitation cannot be confirmed as met \u2014 the single visible limitation is also incomplete",
       "No direct bottom line verdict is present in the submitted content"
     ]
+  },
+  {
+    "title": "How Florists Use AI to Save Time on the Work That Happens Away From the Flowers",
+    "date": "2026-06-08",
+    "score": 5,
+    "issues": [
+      "Post is incomplete/cut off mid-sentence, making it impossible to assess full word count (likely under 1,200 words) or a bottom line verdict",
+      "Missing a direct bottom line verdict \u2014 the post ends abruptly before any conclusion or recommendation summary",
+      "Not all tool recommendations include real pricing \u2014 Lately AI pricing is cut off and no other tools beyond ChatGPT and the start of Lately AI are covered, leaving the pricing requirement only partially fulfilled",
+      "Not all tools have an honest limitation \u2014 Lately AI's limitation is missing due to the cut-off, so the limitation requirement is only partially met"
+    ]
   }
 ]
