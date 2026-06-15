@@ -319,5 +319,17 @@
     "date": "2026-06-12",
     "score": 7,
     "issues": []
+  },
+  {
+    "title": "How Vets & Pet Care Businesses Use AI to Save Time on the Work That Happens Between Consultations (Not Just in the Clinic)",
+    "date": "2026-06-15",
+    "score": 5,
+    "issues": [
+      "Post appears to be cut off mid-sentence ('it works best when you dictate im'), making it incomplete and impossible to verify word count, all tool sections, or the bottom line verdict",
+      "Cannot confirm all tool recommendations include real pricing \u2014 only one tool (Talkatoo) is visible before the post cuts off, so remaining tools may be missing pricing",
+      "Cannot verify every tool has an honest limitation \u2014 only one tool is present in the visible text",
+      "No direct bottom line verdict is present in the submitted text",
+      "Post length cannot be verified as 1,200-1,800 words due to the truncated content"
+    ]
   }
 ]

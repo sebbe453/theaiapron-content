@@ -384,5 +384,18 @@
     "angle": "how childcare & nurseries use AI to save time",
     "score": 7,
     "strengths": []
+  },
+  {
+    "title": "How Vets & Pet Care Businesses Use AI to Save Time on the Work That Happens Between Consultations (Not Just in the Clinic)",
+    "slug": "how-vets-pet-care-businesses-use-ai-to-save-time-on-the-work-that-happens-betwee",
+    "date": "2026-06-15",
+    "industry": "vets & pet care",
+    "angle": "how vets & pet care use AI to save time",
+    "score": 5,
+    "strengths": [
+      "Hook is specific and concrete \u2014 opens with a measurable stat ('1.5 to 2 hours every day writing clinical notes') rather than a vague claim",
+      "The one visible tool (Talkatoo) includes real pricing ($149/month per user) and an honest limitation noting it is a dictation tool not a full AI note-writer, which sets a strong pattern for the rest of the post",
+      "No banned words detected in the visible portion of the post"
+    ]
   }
 ]
