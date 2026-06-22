@@ -415,5 +415,19 @@
     "angle": "how cleaning businesses use AI to save time",
     "score": 7,
     "strengths": []
+  },
+  {
+    "title": "How Driving Instructors Use AI to Save Time on the Work That Happens When You're Not in the Car",
+    "slug": "how-driving-instructors-use-ai-to-save-time-on-the-work-that-happens-when-youre-",
+    "date": "2026-06-22",
+    "industry": "driving instructors",
+    "angle": "how driving instructors use AI to save time",
+    "score": 6,
+    "strengths": [
+      "Hook is specific and concrete \u2014 names real pain points like 11pm enquiries, no-shows, and the specific contrast of 14 vs 87 Google reviews",
+      "ChatGPT recommendation includes real pricing (Free for GPT-4o, \u00a316/month for Plus) and an honest, clearly stated limitation about copy-paste workflow",
+      "No banned words detected in the visible content \u2014 writing avoids revolutionary, game-changer, seamless, leverage, and similar terms",
+      "Tone is practical and instructor-specific throughout, grounding AI benefits in relatable daily scenarios rather than abstract promises"
+    ]
   }
 ]

@@ -343,5 +343,17 @@
     "date": "2026-06-19",
     "score": 7,
     "issues": []
+  },
+  {
+    "title": "How Driving Instructors Use AI to Save Time on the Work That Happens When You're Not in the Car",
+    "date": "2026-06-22",
+    "score": 6,
+    "issues": [
+      "Post appears to be cut off mid-sentence ('Tidio can be answerin'), making it impossible to verify complete tool coverage, word count, or bottom line verdict",
+      "Cannot confirm all tool recommendations include real pricing \u2014 Tidio pricing is missing due to the truncated content",
+      "Cannot confirm every tool has an honest limitation \u2014 Tidio's limitation section appears incomplete",
+      "Word count cannot be verified as meeting the 1,200-1,800 word requirement due to the post being cut short",
+      "No direct bottom line verdict is present in the visible content"
+    ]
   }
 ]
