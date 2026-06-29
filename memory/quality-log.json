@@ -367,5 +367,18 @@
     "date": "2026-06-26",
     "score": 7,
     "issues": []
+  },
+  {
+    "title": "How Opticians Use AI to Save Time on the Work That Fills Your Evenings and Empties Your Appointment Book",
+    "date": "2026-06-29",
+    "score": 3,
+    "issues": [
+      "Post is incomplete \u2014 it cuts off mid-sentence during the tool pricing section, making it impossible to evaluate full word count, all tool pricing, or all tool limitations",
+      "No tool pricing is fully listed \u2014 the post cuts off before any complete pricing information is provided for Pabau or any other tool",
+      "No tool limitations are present \u2014 the post ends before any honest limitations are included for any recommended tool",
+      "No bottom line verdict is present \u2014 the post is unfinished and contains no concluding recommendation or direct verdict",
+      "Word count cannot reach 1,200-1,800 words minimum \u2014 the post is visibly truncated and incomplete",
+      "Banned word used \u2014 'empower' does not appear, but the title contains 'Empties' which is acceptable; however the meta description and body should be re-checked once complete"
+    ]
   }
 ]
