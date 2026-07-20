@@ -460,5 +460,16 @@
       "Post is almost certainly under 1,200 words due to being cut off mid-sentence, failing the word count requirement",
       "No direct bottom line verdict is present \u2014 the post ends before any conclusion or verdict section"
     ]
+  },
+  {
+    "title": "Best AI Tools for Photographers in 2026 (That Actually Work When You're Drowning in Edits and Chasing Invoices at Midnight)",
+    "date": "2026-07-20",
+    "score": 6,
+    "issues": [
+      "Post appears to be cut off mid-sentence ('Imagen integrates directly into Lightr') \u2014 incomplete content means word count cannot be verified and likely falls short of the 1,200-word minimum",
+      "Not all tool recommendations are fully complete \u2014 Imagen AI section is truncated, so its honest limitation and full pricing details are missing",
+      "No direct bottom line verdict is present in the submitted text \u2014 the post ends abruptly before any concluding recommendation or clear starting point is given",
+      "Only two tools are reviewed before the post cuts off, making it difficult to confirm every tool has an honest limitation (Imagen AI limitation is absent)"
+    ]
   }
 ]
