@@ -471,5 +471,17 @@
       "No direct bottom line verdict is present in the submitted text \u2014 the post ends abruptly before any concluding recommendation or clear starting point is given",
       "Only two tools are reviewed before the post cuts off, making it difficult to confirm every tool has an honest limitation (Imagen AI limitation is absent)"
     ]
+  },
+  {
+    "title": "Best AI Tools for Accountants and Bookkeepers in 2026 (That Actually Work When You're Drowning in Deadlines and Running Every System Yourself)",
+    "date": "2026-07-22",
+    "score": 6,
+    "issues": [
+      "Post appears to be cut off mid-sentence in the ChatGPT section ('It also has no knowledge of your s...'), meaning tool limitations, additional tools, and likely the bottom line verdict are missing",
+      "Cannot confirm all tool recommendations include real pricing \u2014 only ChatGPT pricing is visible before the post cuts off, so remaining tools cannot be evaluated",
+      "Cannot confirm every tool has an honest limitation \u2014 only ChatGPT's limitation is partially visible and is itself cut off mid-sentence",
+      "Word count cannot be verified as meeting the 1,200-1,800 word requirement due to the incomplete post",
+      "No direct bottom line verdict is present in the submitted content"
+    ]
   }
 ]
