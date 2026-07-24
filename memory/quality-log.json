@@ -483,5 +483,16 @@
       "Word count cannot be verified as meeting the 1,200-1,800 word requirement due to the incomplete post",
       "No direct bottom line verdict is present in the submitted content"
     ]
+  },
+  {
+    "title": "Best AI Tools for Florists in 2026 (That Actually Work When You're Knee-Deep in Stems and Running Every Part of the Business Alone)",
+    "date": "2026-07-24",
+    "score": 6,
+    "issues": [
+      "Post is incomplete \u2014 it cuts off mid-sentence during the ChatGPT limitation section, meaning not all tools have honest limitations documented and the word count cannot reach 1,200-1,800 words",
+      "Only one tool (ChatGPT) is reviewed, so pricing for all recommended tools cannot be confirmed and limitations for all tools are missing",
+      "Missing a direct bottom line verdict \u2014 there is no concluding section that tells florists which tool to start with or gives a clear overall recommendation",
+      "Cannot confirm no banned words appear in the unwritten sections of the post"
+    ]
   }
 ]
