@@ -524,5 +524,16 @@
       "Cannot confirm all tool recommendations include real pricing as only one tool's pricing is visible before the post ends",
       "Missing a direct bottom line verdict \u2014 none is visible in the submitted content"
     ]
+  },
+  {
+    "title": "Best AI Tools for Independent Coffee Shops in 2026 (That Actually Work When You're Pulling Shots, Not Writing Social Posts at Midnight)",
+    "date": "2026-08-03",
+    "score": 6,
+    "issues": [
+      "Post appears to be incomplete \u2014 it cuts off mid-sentence in the ChatGPT section, so the full word count cannot be confirmed and remaining tools/sections are missing",
+      "Not all tool recommendations include real pricing \u2014 only ChatGPT pricing is present; other tools mentioned in the meta description are absent due to the post being cut off",
+      "Not all tools have an honest limitation confirmed \u2014 only ChatGPT's limitation is visible; remaining tools are missing",
+      "No bottom line verdict is present \u2014 the post is incomplete and never reaches a concluding recommendation"
+    ]
   }
 ]
