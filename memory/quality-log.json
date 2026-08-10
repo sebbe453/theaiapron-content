@@ -552,5 +552,17 @@
       "No direct bottom line verdict present in the submitted text",
       "Cannot confirm all tools have honest limitations listed since the post is truncated"
     ]
+  },
+  {
+    "title": "Best AI Tools for Solicitors and Law Firms in 2026 (That Actually Work When You're Billing Hours, Not Learning Software)",
+    "date": "2026-08-10",
+    "score": 5,
+    "issues": [
+      "Post is incomplete \u2014 it cuts off mid-sentence during the Clio limitation, making it impossible to assess full word count, all tool pricing, all tool limitations, or the bottom line verdict",
+      "Cannot verify word count is within 1,200-1,800 words as the post is truncated",
+      "Cannot confirm all tool recommendations include real pricing \u2014 only one tool (Clio) has pricing before the post cuts off",
+      "Cannot confirm every tool has an honest limitation \u2014 only one tool is partially reviewed before the cutoff",
+      "No direct bottom line verdict present \u2014 the post ends abruptly before any conclusion or recommendation summary"
+    ]
   }
 ]
