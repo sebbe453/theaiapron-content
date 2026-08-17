@@ -587,5 +587,17 @@
       "No direct bottom line verdict is present in the visible content",
       "Word count appears to be well under 1,200 words based on what was submitted"
     ]
+  },
+  {
+    "title": "Free AI Tools for Restaurants and Caf\u00e9s in 2026 (That Cost Nothing and Actually Save You Hours Every Week)",
+    "date": "2026-08-17",
+    "score": 5,
+    "issues": [
+      "Post is incomplete \u2014 it cuts off mid-sentence during the Google Gemini section, making word count impossible to verify and the content unfinished",
+      "Only one tool (ChatGPT) is fully reviewed with pricing and limitations \u2014 Google Gemini entry is cut off before pricing or limitations are confirmed, and no other tools are present",
+      "Missing a direct bottom line verdict \u2014 there is no concluding recommendation or summary judgment for readers",
+      "Cannot confirm all tool recommendations include real pricing since the post is incomplete \u2014 only ChatGPT pricing is fully stated",
+      "Cannot confirm every tool has an honest limitation since the post is incomplete \u2014 only ChatGPT limitation is present"
+    ]
   }
 ]
