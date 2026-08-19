@@ -599,5 +599,17 @@
       "Cannot confirm all tool recommendations include real pricing since the post is incomplete \u2014 only ChatGPT pricing is fully stated",
       "Cannot confirm every tool has an honest limitation since the post is incomplete \u2014 only ChatGPT limitation is present"
     ]
+  },
+  {
+    "title": "Free AI Tools for Hair & Beauty Salons in 2026 (That Cost Nothing and Actually Save You Hours Every Week)",
+    "date": "2026-08-19",
+    "score": 5,
+    "issues": [
+      "Post appears to be cut off mid-sentence and is incomplete \u2014 word count cannot reach 1,200-1,800 words based on visible content",
+      "Only one tool (ChatGPT) has complete pricing and limitation details \u2014 Google Gemini section is cut off before pricing and limitation are fully established",
+      "Only one tool has a confirmed honest limitation (ChatGPT) \u2014 Gemini section is incomplete so this criterion cannot be fully met",
+      "No direct bottom line verdict present \u2014 the post ends abruptly without a concluding recommendation or verdict section",
+      "Incomplete tool coverage means all tool recommendations including real pricing cannot be confirmed across all tools mentioned"
+    ]
   }
 ]
