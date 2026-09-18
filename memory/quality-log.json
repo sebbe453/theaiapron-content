@@ -724,5 +724,17 @@
       "No direct bottom line verdict is present \u2014 the post is cut off before any conclusion or final recommendation",
       "Post is well under the 1,200-word minimum due to being incomplete \u2014 based on visible content it appears to be approximately 600-700 words"
     ]
+  },
+  {
+    "title": "Free AI Tools for Independent Coffee Shops in 2026 (That Cost Nothing and Actually Keep Your Regulars Coming Back, Your Menu Fresh, and Your Mornings Running Smoother)",
+    "date": "2026-09-18",
+    "score": 5,
+    "issues": [
+      "Post is incomplete \u2014 it cuts off mid-sentence ('Best for: Writ...'), making it impossible to assess full word count, all tool recommendations, limitations, or the bottom line verdict",
+      "Word count cannot be verified as meeting the 1,200-1,800 word requirement due to the post being truncated",
+      "No honest limitations are present for any tools \u2014 the post cuts off before completing even the first tool entry",
+      "No direct bottom line verdict is present anywhere in the visible content",
+      "Pricing is only partially addressed \u2014 only ChatGPT's free plan is mentioned before the post cuts off, with no other tools assessed"
+    ]
   }
 ]
