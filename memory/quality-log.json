@@ -806,5 +806,17 @@
     "date": "2026-10-07",
     "score": 7,
     "issues": []
+  },
+  {
+    "title": "AI Customer Service Tools for Gyms & Personal Trainers in 2026 (That Handle the Enquiries, Drop-Off Messages, and \"How Do I Cancel?\" Questions So You Can Focus on the Floor)",
+    "date": "2026-10-09",
+    "score": 5,
+    "issues": [
+      "Post is incomplete \u2014 cuts off mid-sentence in the Tidio section, making it impossible to assess full word count (likely well under 1,200 words) or whether all tools have honest limitations",
+      "Only one tool (Tidio) is reviewed with pricing; the post promises a list of tools but no others are present, so the 'all tool recommendations include real pricing' criterion cannot be met",
+      "Only one tool has a limitation listed, and even that is cut off mid-sentence \u2014 the criterion requires every tool to have an honest limitation",
+      "No bottom line verdict is present anywhere in the post",
+      "Word count is significantly below the 1,200-word minimum based on what is provided"
+    ]
   }
 ]
