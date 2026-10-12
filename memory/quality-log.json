@@ -818,5 +818,16 @@
       "No bottom line verdict is present anywhere in the post",
       "Word count is significantly below the 1,200-word minimum based on what is provided"
     ]
+  },
+  {
+    "title": "AI Customer Service Tools for E-Commerce & Online Shops in 2026 (That Handle Returns, Order Chases, and Angry Buyers Before You Even See the Message)",
+    "date": "2026-10-12",
+    "score": 6,
+    "issues": [
+      "Post appears to be cut off mid-sentence ('it'll give vague responses that fr...'), making it impossible to verify word count falls within 1,200-1,800 words \u2014 likely falls short due to truncation",
+      "Only one tool (Tidio) is reviewed before the post cuts off, so it cannot be verified that ALL tool recommendations include real pricing and honest limitations as required by the criteria",
+      "No bottom line verdict is present \u2014 the post ends abruptly without a direct conclusion or recommendation summary",
+      "Cannot fully assess banned word usage across the complete post since content is incomplete"
+    ]
   }
 ]
