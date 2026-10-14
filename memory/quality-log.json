@@ -829,5 +829,16 @@
       "No bottom line verdict is present \u2014 the post ends abruptly without a direct conclusion or recommendation summary",
       "Cannot fully assess banned word usage across the complete post since content is incomplete"
     ]
+  },
+  {
+    "title": "AI Customer Service Tools for Dental & Healthcare Clinics in 2026 (That Handle Patient Enquiries, Appointment Panic, and Out-of-Hours Messages Without Adding to Your Payroll)",
+    "date": "2026-10-14",
+    "score": 5,
+    "issues": [
+      "Post is incomplete \u2014 it cuts off mid-sentence during the Tidio description, so word count cannot be verified and likely falls short of the 1,200-word minimum",
+      "Only one tool (Tidio) is partially described before the post ends, so pricing and limitations for all recommended tools cannot be fully assessed \u2014 remaining tools have no pricing or limitations listed",
+      "Incomplete post means there is no direct bottom line verdict",
+      "Cannot confirm every tool has an honest limitation since only one tool section exists and it is cut off before completion"
+    ]
   }
 ]
