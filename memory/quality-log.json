@@ -869,5 +869,16 @@
     "date": "2026-10-21",
     "score": 7,
     "issues": []
+  },
+  {
+    "title": "AI Customer Service Tools for Accountants & Bookkeepers in 2026 (That Handle the Client Queries, Deadline Reminders, and \"Did You Get My Receipts?\" Messages So You Can Actually Do the Work)",
+    "date": "2026-10-23",
+    "score": 5,
+    "issues": [
+      "Post is incomplete \u2014 it cuts off mid-sentence during the Tidio section, so word count cannot be verified and remaining tools are missing entirely",
+      "Only one tool (Tidio) is partially reviewed, so the requirement that all tool recommendations include real pricing cannot be fully assessed \u2014 subsequent tools are absent",
+      "Only one tool is present, meaning the requirement that every tool has an honest limitation cannot be satisfied for the post as a whole \u2014 the Tidio limitation section is cut off before it appears",
+      "No bottom line verdict is present \u2014 the post ends abruptly before any conclusion or direct recommendation is given"
+    ]
   }
 ]
