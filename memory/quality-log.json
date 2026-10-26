@@ -880,5 +880,16 @@
       "Only one tool is present, meaning the requirement that every tool has an honest limitation cannot be satisfied for the post as a whole \u2014 the Tidio limitation section is cut off before it appears",
       "No bottom line verdict is present \u2014 the post ends abruptly before any conclusion or direct recommendation is given"
     ]
+  },
+  {
+    "title": "AI Customer Service Tools for Florists in 2026 (That Handle the Wedding Enquiries, Last-Minute Orders, and \"Do You Have Peonies?\" Messages While You're Elbow-Deep in Arrangements)",
+    "date": "2026-10-26",
+    "score": 5,
+    "issues": [
+      "No tool recommendations are included anywhere in the post, meaning the pricing requirement (2 points) cannot be met at all",
+      "No honest limitations for tools are present since no actual tools are named or reviewed, losing all 2 points for that criterion",
+      "Post appears to be incomplete \u2014 it cuts off mid-sentence ('a direct') and likely falls under the 1,200-word minimum",
+      "No direct bottom line verdict is present, losing that 1 point"
+    ]
   }
 ]
