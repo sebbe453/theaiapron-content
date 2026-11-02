@@ -903,5 +903,16 @@
     "date": "2026-10-30",
     "score": 7,
     "issues": []
+  },
+  {
+    "title": "AI Customer Service Tools for Vets & Pet Care Businesses in 2026 (That Handle the 11pm \"Is This an Emergency?\" Messages So Your Team Can Rest)",
+    "date": "2026-11-02",
+    "score": 6,
+    "issues": [
+      "Post appears to be cut off mid-sentence ('AFF' at the end), meaning the full content including remaining tool recommendations, limitations, and bottom line verdict is missing",
+      "Cannot verify word count is within 1,200-1,800 range \u2014 the truncated post appears well under 1,200 words",
+      "Cannot confirm all tool recommendations include real pricing \u2014 only one tool (Tidio) is reviewed before the post cuts off, so the requirement for multiple tools with pricing is unverifiable",
+      "No direct bottom line verdict present \u2014 the post ends abruptly before any conclusion or verdict is given"
+    ]
   }
 ]

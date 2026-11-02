@@ -1091,5 +1091,19 @@
     "angle": "AI customer service tools for childcare & nurseries",
     "score": 7,
     "strengths": []
+  },
+  {
+    "title": "AI Customer Service Tools for Vets & Pet Care Businesses in 2026 (That Handle the 11pm \"Is This an Emergency?\" Messages So Your Team Can Rest)",
+    "slug": "ai-customer-service-tools-for-vets-pet-care-businesses-in-2026-that-handle-the-1",
+    "date": "2026-11-02",
+    "industry": "vets & pet care",
+    "angle": "AI customer service tools for vets & pet care",
+    "score": 6,
+    "strengths": [
+      "Hook is specific and concrete \u2014 the 11:07pm dog-ate-something scenario is a vivid, real-world example that immediately grounds the reader",
+      "Tidio's pricing is clearly stated with real numbers ($29/month, $39/month, free plan noted)",
+      "Tidio's honest limitation is well-written and genuinely useful \u2014 flagging the symptom-description loop issue and the need to configure emergency triggers before going live",
+      "No banned words detected in the content that exists"
+    ]
   }
 ]
