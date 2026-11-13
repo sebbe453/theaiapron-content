@@ -932,5 +932,17 @@
     "date": "2026-11-11",
     "score": 7,
     "issues": []
+  },
+  {
+    "title": "AI Customer Service Tools for Solicitors & Law Firms in 2026 (That Handle the Client Enquiries, Intake Forms, and \"Any Update on My Case?\" Messages Before They Eat Your Billable Day)",
+    "date": "2026-11-13",
+    "score": 3,
+    "issues": [
+      "Post is incomplete \u2014 cuts off mid-section heading ('AI Customer Service Too') with no tool recommendations, pricing, limitations, or verdict present",
+      "No tool recommendations included, so pricing criterion cannot be met (0/2 points)",
+      "No tool limitations included since no tools are reviewed (0/2 points)",
+      "No bottom line verdict present (0/1 point)",
+      "Word count is well below 1,200 words \u2014 approximately 450 words (0/1 point)"
+    ]
   }
 ]
