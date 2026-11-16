@@ -944,5 +944,17 @@
       "No bottom line verdict present (0/1 point)",
       "Word count is well below 1,200 words \u2014 approximately 450 words (0/1 point)"
     ]
+  },
+  {
+    "title": "AI Customer Service Tools for Mortgage Brokers in 2026 (That Handle the Client Chasing, Out-of-Hours Panics, and \"What's Happening With My Application?\" Messages Before They Derail Your Day)",
+    "date": "2026-11-16",
+    "score": 4,
+    "issues": [
+      "Post appears to be cut off mid-sentence, suggesting it is incomplete \u2014 word count cannot be verified as 1,200-1,800 words, and it is almost certainly under 1,200 words in its current state",
+      "Only one tool (Tidio) is partially reviewed before the post ends \u2014 pricing and limitations for all other promised tools are missing",
+      "No honest limitations are present for any tool \u2014 Tidio's section is cut off before a limitation could be included, and no other tools are reviewed at all",
+      "No bottom line verdict is present \u2014 the post ends abruptly mid-review with no conclusion or recommendation",
+      "Cannot confirm banned words are fully absent across the complete intended post since the post is incomplete"
+    ]
   }
 ]
